@@ -1,10 +1,243 @@
 [
   {
-    "answerkey": 3,
-    "option 3": "engineer",
-    "option 4": "it",
-    "question": "what is SQA ? ",
-    "option 1": "Nothing",
-    "option 2": "provashish"
+    "question": "Which of the following is NOT a level of software testing?",
+    "option 1": "Unit Testing",
+    "option 2": "Integration Testing",
+    "option 3": "System Testing",
+    "option 4": "Debugging",
+    "answerkey": 4
+  },
+  {
+    "question": "Which testing is performed without executing the program?",
+    "option 1": "Black-box Testing",
+    "option 2": "Static Testing",
+    "option 3": "Dynamic Testing",
+    "option 4": "Unit Testing",
+    "answerkey": 2
+  },
+  {
+    "question": "Boundary Value Analysis (BVA) is an example of:",
+    "option 1": "White-box Testing",
+    "option 2": "Black-box Testing",
+    "option 3": "Load Testing",
+    "option 4": "System Testing",
+    "answerkey": 2
+  },
+  {
+    "question": "Which testing ensures that a new code change has not broken existing features?",
+    "option 1": "Unit Testing",
+    "option 2": "Regression Testing",
+    "option 3": "Sanity Testing",
+    "option 4": "Performance Testing",
+    "answerkey": 2
+  },
+  {
+    "question": "Which of the following is a non-functional testing type?",
+    "option 1": "Usability Testing",
+    "option 2": "Smoke Testing",
+    "option 3": "Unit Testing",
+    "option 4": "Regression Testing",
+    "answerkey": 1
+  },
+  {
+    "question": "Which of the following is NOT a black-box testing technique?",
+    "option 1": "Equivalence Partitioning",
+    "option 2": "Decision Table Testing",
+    "option 3": "Statement Coverage",
+    "option 4": "Boundary Value Analysis",
+    "answerkey": 3
+  },
+  {
+    "question": "Load testing is mainly used to test:",
+    "option 1": "Correctness",
+    "option 2": "Performance",
+    "option 3": "Usability",
+    "option 4": "Security",
+    "answerkey": 2
+  },
+  {
+    "question": "What is the main purpose of acceptance testing?",
+    "option 1": "To check system coding style",
+    "option 2": "To check if the system meets business requirements",
+    "option 3": "To find system vulnerabilities",
+    "option 4": "To check integration between modules",
+    "answerkey": 2
+  },
+  {
+    "question": "Which of the following comes under static testing?",
+    "option 1": "Walkthrough",
+    "option 2": "System Testing",
+    "option 3": "Regression Testing",
+    "option 4": "Load Testing",
+    "answerkey": 1
+  },
+  {
+    "question": "Alpha testing is performed by:",
+    "option 1": "End-users at customer site",
+    "option 2": "Developers at organization site",
+    "option 3": "Independent test team",
+    "option 4": "Automation tools",
+    "answerkey": 2
+  },
+  {
+    "question": "Beta testing is conducted at:",
+    "option 1": "Developer’s site",
+    "option 2": "Client’s site by end-users",
+    "option 3": "Unit testing level",
+    "option 4": "System testing level",
+    "answerkey": 2
+  },
+  {
+    "question": "Which one is a white-box testing technique?",
+    "option 1": "Statement Coverage",
+    "option 2": "Boundary Value Analysis",
+    "option 3": "Equivalence Partitioning",
+    "option 4": "Decision Table Testing",
+    "answerkey": 1
+  },
+  {
+    "question": "What is the main goal of exploratory testing?",
+    "option 1": "To use pre-written test cases",
+    "option 2": "To explore the software without predefined test cases",
+    "option 3": "To check system load",
+    "option 4": "To measure code coverage",
+    "answerkey": 2
+  },
+  {
+    "question": "Which of the following is the first level of testing?",
+    "option 1": "System Testing",
+    "option 2": "Integration Testing",
+    "option 3": "Unit Testing",
+    "option 4": "Acceptance Testing",
+    "answerkey": 3
+  },
+  {
+    "question": "Which testing type checks if the software can handle a large number of users?",
+    "option 1": "Usability Testing",
+    "option 2": "Load Testing",
+    "option 3": "Security Testing",
+    "option 4": "Integration Testing",
+    "answerkey": 2
+  },
+  {
+    "question": "Smoke testing is also called:",
+    "option 1": "Sanity Testing",
+    "option 2": "Confidence Testing",
+    "option 3": "Regression Testing",
+    "option 4": "Performance Testing",
+    "answerkey": 2
+  },
+  {
+    "question": "Which of the following is NOT a non-functional testing?",
+    "option 1": "Stress Testing",
+    "option 2": "Usability Testing",
+    "option 3": "Security Testing",
+    "option 4": "Unit Testing",
+    "answerkey": 4
+  },
+  {
+    "question": "Which testing verifies data flow and control flow in code?",
+    "option 1": "White-box Testing",
+    "option 2": "Black-box Testing",
+    "option 3": "System Testing",
+    "option 4": "Acceptance Testing",
+    "answerkey": 1
+  },
+  {
+    "question": "Which of the following ensures that new functionality works without affecting old functionality?",
+    "option 1": "Regression Testing",
+    "option 2": "Smoke Testing",
+    "option 3": "Sanity Testing",
+    "option 4": "Load Testing",
+    "answerkey": 1
+  },
+  {
+    "question": "In V-Model, which phase corresponds to System Testing?",
+    "option 1": "Requirement Analysis",
+    "option 2": "System Design",
+    "option 3": "Coding",
+    "option 4": "Unit Design",
+    "answerkey": 2
+  },
+
+  {
+    "question": "Which testing checks the interaction between different modules?",
+    "option 1": "Unit Testing",
+    "option 2": "Integration Testing",
+    "option 3": "System Testing",
+    "option 4": "Acceptance Testing",
+    "answerkey": 2
+  },
+  {
+    "question": "Stress testing is performed to:",
+    "option 1": "Check system’s behavior under normal conditions",
+    "option 2": "Check system’s behavior beyond normal conditions",
+    "option 3": "Check system’s usability",
+    "option 4": "Check system’s installation",
+    "answerkey": 2
+  },
+  {
+    "question": "Which testing checks if the software is easy to use?",
+    "option 1": "Usability Testing",
+    "option 2": "Performance Testing",
+    "option 3": "Load Testing",
+    "option 4": "Regression Testing",
+    "answerkey": 1
+  },
+  {
+    "question": "Test cases are derived from:",
+    "option 1": "Source Code",
+    "option 2": "Requirements",
+    "option 3": "Log Files",
+    "option 4": "Error Reports",
+    "answerkey": 2
+  },
+  {
+    "question": "Which is the main purpose of a Test Plan?",
+    "option 1": "To define test strategy and scope",
+    "option 2": "To debug code",
+    "option 3": "To design database schema",
+    "option 4": "To deploy system",
+    "answerkey": 1
+  },
+  {
+    "question": "Static analysis is mainly used to:",
+    "option 1": "Find performance bottlenecks",
+    "option 2": "Detect coding standard violations",
+    "option 3": "Execute test cases",
+    "option 4": "Test usability",
+    "answerkey": 2
+  },
+  {
+    "question": "Which of the following is an example of functional testing?",
+    "option 1": "Smoke Testing",
+    "option 2": "Usability Testing",
+    "option 3": "Performance Testing",
+    "option 4": "Security Testing",
+    "answerkey": 1
+  },
+  {
+    "question": "Black-box testing focuses on:",
+    "option 1": "Internal Code Structure",
+    "option 2": "Functional Requirements",
+    "option 3": "Program Logic",
+    "option 4": "Control Flow",
+    "answerkey": 2
+  },
+  {
+    "question": "Which is the final level of testing before software delivery?",
+    "option 1": "Integration Testing",
+    "option 2": "System Testing",
+    "option 3": "Acceptance Testing",
+    "option 4": "Unit Testing",
+    "answerkey": 3
+  },
+  {
+    "question": "Which testing ensures the system works on different browsers?",
+    "option 1": "Compatibility Testing",
+    "option 2": "Load Testing",
+    "option 3": "Sanity Testing",
+    "option 4": "Unit Testing",
+    "answerkey": 1
   }
 ]
