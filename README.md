@@ -3,10 +3,12 @@ In this software system, admin can save multiple MCQ with 4 options with their a
 
 ### Admin credentials
 username: admin 
+
 password: 1234
 
 ### Student credentials
 username: salman
+
 password: 1234
 
 ## NB: run QuizManagementSystem.java file on the terminal 
