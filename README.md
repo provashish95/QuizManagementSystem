@@ -11,7 +11,7 @@ username: salman
 
 password: 1234
 
-## NB: run QuizManagementSystem.java file on the terminal 
+### NB: run QuizManagementSystem.java file on the terminal 
 
 
 
