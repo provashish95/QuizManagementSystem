@@ -13,7 +13,9 @@ password: 1234
 
 ### NB: run QuizManagementSystem.java file on the terminal 
 
-<video src="https://www.youtube.com/watch?v=gP5MdP9tsHc" width="600" controls></video>
+### Watch the Project Video Here
+
+[Click here to view the project video](https://www.youtube.com/watch?v=gP5MdP9tsHc)
 
 
 
