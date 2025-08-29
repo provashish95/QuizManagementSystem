@@ -13,7 +13,8 @@ password: 1234
 
 ### NB: run QuizManagementSystem.java file on the terminal 
 
-[![Watch the video]((https://drive.google.com/file/d/1RDsH_nAwyjSPLPc9q4AAJxY7lB9nqtmw/view?usp=sharing))]
+[![Live Stream](https://img.youtube.com/vi/VIDEO_ID/hqdefault.jpg)]([https://www.youtube.com/watch?v=VIDEO_ID](https://www.youtube.com/watch?v=gP5MdP9tsHc) "Watch Live")
+
 
 
 
